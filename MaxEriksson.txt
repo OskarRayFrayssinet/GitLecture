@@ -1,2 +1,10 @@
-Part of working in Git on GitHub demo for ITHS class.
 Creating branches is part of the exercise.
+
+
+och här lägger jag till lite text
+samt tar bort en rad :)
+
+
+
+men flyttar ner den hit:
+Part of working in Git on GitHub demo for ITHS class.
