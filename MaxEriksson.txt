@@ -1,1 +1,3 @@
 Part of working in Git on GitHub demo for ITHS class
+
+I'm expecting a merge conflict
